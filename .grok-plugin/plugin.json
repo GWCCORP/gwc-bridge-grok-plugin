@@ -1,0 +1,20 @@
+{
+  "name": "gwc-bridge",
+  "version": "1.0.0",
+  "description": "Work on your own computer from Grok Build through GWC Bridge: read, search and edit files and documents in folders you share, run commands and delegate tasks, with GWC Studio or GWC for VS Code on that computer.",
+  "author": {
+    "name": "GWC",
+    "url": "https://gwc-corp.com"
+  },
+  "homepage": "https://gwc-corp.com/bridge",
+  "repository": "https://github.com/GWCCORP/gwc-bridge-grok-plugin",
+  "license": "MIT",
+  "keywords": [
+    "gwc",
+    "gwc bridge",
+    "gwc studio",
+    "gwc for vs code",
+    "gwc-corp"
+  ],
+  "logo": "assets/logo.png"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gwc-bridge": {
+      "type": "http",
+      "url": "https://mcp.gwc-corp.com/mcp"
+    }
+  }
+}
